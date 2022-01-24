@@ -15,6 +15,7 @@ Gulp,
 English,
 Pug/Jade,
 JavaScript, JQuery.
+
 📂 Other:
 
 BEM-naming,
@@ -24,5 +25,4 @@ Perfect pixel.
 
 man,
 20 years old,
-.
-My english is not good but some time ago i reconfigured my Windows into this language (for some reason not completely translated) and most of programs.
+
