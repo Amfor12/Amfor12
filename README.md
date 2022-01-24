@@ -1,5 +1,5 @@
-Hello👋 My name is Nikolay. Welcome to my profile!
-The plain facts about me ☑️
+##Hello👋 My name is Nikolay. Welcome to my profile!
+The plain facts about me ☑️ 
 Junior frontend developer 🔰 I am looking for a job or a freelance team to create quality projects. Mail to contact me: murzaevn3@gmail.com 📧
 
 ✒️ Сonfident skills:
