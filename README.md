@@ -1,16 +1,26 @@
-### Hi there 👋
+Hello👋 My name is Nikolay. Welcome to my profile!
+The plain facts about me ☑️
+Junior frontend developer 🔰 I am looking for a job or a freelance team to create quality projects. Mail to contact me: murzaevn3@gmail.com 📧
 
-<!--
-**Amfor12/Amfor12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✒️ Сonfident skills:
 
-Here are some ideas to get you started:
+HTML5,
+CSS3/SCSS,
+Screen аdaptation.
+✏️ A little:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Git,
+Gulp,
+English,
+Pug/Jade,
+JavaScript, JQuery.
+📂 Other:
+
+BEM-naming,
+Perfect pixel.
+👦 In real life:
+
+man,
+20 years old,
+.
+My english is not good but some time ago i reconfigured my Windows into this language (for some reason not completely translated) and most of programs.
