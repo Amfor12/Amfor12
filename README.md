@@ -8,7 +8,7 @@ HTML5,
 CSS3/SCSS,
 Screen аdaptation.
 
-✏️ A little:
+✏️ Skills:
 
 Git,
 Gulp,
