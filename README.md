@@ -14,7 +14,8 @@ Git,
 Gulp,
 English,
 Pug/Jade,
-JavaScript, JQuery.
+JavaScript, JQuery,
+PHP, Wordpress, Seo.
 
 📂 Other:
 
@@ -24,5 +25,5 @@ Perfect pixel.
 👦 In real life:
 
 man,
-20 years old,
+23 years old,
 
