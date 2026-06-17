@@ -1,29 +1,31 @@
-# Hello👋 My name is Nikolay. Welcome to my profile!
-## The plain facts about me ☑️ 
-Junior frontend developer 🔰 I am looking for a job or a freelance team to create quality projects. Mail to contact me: nikolai.murzaev.dev@gmail.com 📧
+# Hello 👋 My name is Nikolay. Welcome to my profile!
 
-✒️ Сonfident skills:
+## 🚀 About Me
+I am a professional **Frontend Web Developer** with over 5 years of freelance experience. I specialize in building fast, responsive, and pixel-perfect websites. 
+Currently, I am open to new projects, full-time opportunities, or joining a great freelance team.
 
-HTML5,
-CSS3/SCSS,
-Screen аdaptation.
+📫 **Let's connect:** [nikolai.murzaev.dev@gmail.com](mailto:nikolai.murzaev.dev@gmail.com)
 
-✏️ Skills:
+---
 
-Git,
-Gulp,
-English,
-Pug/Jade,
-JavaScript, JQuery,
-PHP, Wordpress, Seo.
+## 💻 Tech Stack & Expertise
 
-📂 Other:
+🛠 **Frontend Core:**
+- HTML5, CSS3, SCSS (SASS), Pug/Jade
+- Responsive & Mobile-First Web Design
 
-BEM-naming,
-Perfect pixel.
+⚡ **JavaScript & Backend:**
+- Vanilla JavaScript (ES6+), jQuery
+- PHP, WordPress (Custom Themes & Development)
 
-👦 In real life:
+📂 **Methodologies & Tools:**
+- BEM-naming, Pixel-Perfect Coding
+- Git, Gulp
+- Basic Technical SEO Optimization
 
-man,
-25 years old, Russian Federation
+---
 
+## 👦 Personal Info
+- **Age:** 25 y.o.
+- **Location:** Kazakhstan 🇰🇿
+- **Languages:** Russian (Native), English (Technical / Intermediate)
